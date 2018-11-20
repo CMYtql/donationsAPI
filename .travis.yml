@@ -4,7 +4,7 @@
     - stable
     script:
     - npm run coverage
-     after_success:
+    after_success:
     - npm run publish-coverage
     branches:
     only: development
