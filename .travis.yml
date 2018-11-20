@@ -7,7 +7,7 @@
     notifications:
      email:
         recipients:
-        - one@example.com      # change to your own address
-        - other@example.com    # uae other (optional)
-        on_success: never        # default: change
+        - 20082240@mail.wit.ie      # change to your own address
+        - 1024049445@qq.com    # uae other (optional)
+        on_success: never      # default: change
         on_failure: always       # default: always
